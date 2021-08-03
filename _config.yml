@@ -13,6 +13,7 @@ programming: /barcode-reader/programming/
 parameters: /barcode-reader/parameters/
 license_activation: /barcode-reader/license-activation/
 enhancements: /barcode-reader/enhancements/
+faq: /barcode-reader/faq/
 
 comparison_tools: /barcode-reader/introduction/comparison-tools/
 
@@ -69,7 +70,6 @@ image_parameters: /barcode-reader/parameters/reference/image-parameter/
 scenario_settings: /barcode-reader/parameters/scenario-settings/
 enumerations: /barcode-reader/parameters/enum/
 
-faqs: /barcode-reader/introduction/faqs.html
 how_to: /barcode-reader/introduction/how-to-guide/
 
 assets: /barcode-reader/assets/

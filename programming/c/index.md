@@ -33,4 +33,8 @@ This is the main page of Dynamsoft Barcode Reader SDK documentation for C Langua
 ## Online Store
 - <a href="https://www.dynamsoft.com/store/dynamsoft-barcode-reader/#desktop" target="_blank">Desktop and Server Deployment</a>
 
+## FAQ
+
+[FAQ for C Language](faq/index.md)
+
 

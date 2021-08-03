@@ -35,13 +35,9 @@ description: Dynamsoft Barcode Reader SDK Documentation Homepage
    - [Set Full License in version 8]({{ site.license_activation }}set-full-license.html)
    - [Set Full License in version 7]({{ site.license_activation }}set-full-license-7.html)
 
+- [FAQ]({{ site.faq }}) 
+
 {%- comment -%}
- [Introduction]({{ site.introduction }})
- [Overview]({{ site.introduction }}overview.html)
- [Principle of Algorithm]({{ site.introduction }}architecture.html)
- [License & Usage Tracking]({{ site.introduction }}licensing/)
- [How-to Guides]({{ site.how_to }})
- [FAQs]({{ site.faqs }})
  Enhancements
 {%- endcomment -%}
 
