@@ -37,7 +37,7 @@ You can set the license by following the steps below:
  
  ![ConfigLicense][4]
 
- You can repeat the above steps to activate other license keys.
+ You can repeat the above steps to activate other license keys.111
 
 ## Configure the license (optional)
 
